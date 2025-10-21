@@ -36,7 +36,7 @@
 
 <h2 align="center">🚀 Projects</h2>
 
-### 1. [Employee Attrition Data Analysis with EDA and Machine Learning](https://github.com/ridhi-png/Employee-Attrition-Data-Analysis-with-EDA-and-ML)
+### 1. [Employee Attrition Data Analysis with EDA and Machine Learning](https://github.com/ridhi-png/Employee-Attrition-Analysis)
 A comprehensive project analyzing employee attrition using Exploratory Data Analysis and Machine Learning.  
 - 📊 Performed in-depth data cleaning, feature engineering, and visualization  
 - 🤖 Built predictive models to identify key factors influencing employee turnover  
