@@ -1,30 +1,118 @@
-<!-- Profile Banner -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/215507523?v=4" width="130" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);" alt="RidhiForge Avatar"/>
+  <img width="140" src="https://avatars.githubusercontent.com/u/215507523?v=4" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);" alt="RidhiForge" />
 </p>
 
 <h1 align="center">
-  <span style="color:#7B1FA2;">Hi, I'm <b>RidhiForge</b> 👋</span>
+  Hi there 👋 I'm <span style="color:#7B1FA2;"><b>RidhiForge</b></span>
 </h1>
 
 <h3 align="center" style="color:#555;">
-  🚀 Aspiring <span style="color:#F57C00;">Data Analyst</span> | <span style="color:#0288D1;">Python & ML Enthusiast</span>
+  🚀 Aspiring Data Analyst | Python & ML Enthusiast
 </h3>
 
 <p align="center">
-  <i>“Forging data into insights | Building with Python, SQL & ML.”</i>
+  <i>“Forging data into insights | Building with Python, SQL & Machine Learning”</i>
 </p>
 
 ---
 
-## ✨ Featured Projects
+## 🌟 Tech Stack
 
-<table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ml,sql,github,vscode,linux&theme=light" />
+</p>
+
+---
+
+## 🧠 Featured Projects
+
+<table align="center">
   <tr>
-    <td width="260" align="center">
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/surakshaos-ai-for-bharat">
+        <img src="https://img.shields.io/badge/SurakshaOS-%230288D1?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>🛡️ AI-powered Community Security System</sub>
+    </td>
+
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/LokVaani-WolfForge">
+        <img src="https://img.shields.io/badge/LokVaani_WolfForge-%23F57C00?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>🎤 WolfForge Voice / Communication Tool</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/ridhi-arora-portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-%237B1FA2?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>🖥️ Personal JavaScript Portfolio</sub>
+    </td>
+
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/ridhi-png">
+        <img src="https://img.shields.io/badge/Ridhi-PNG-Project-%23E91E63?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>📦 Miscellaneous code & experiments</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
       <a href="https://github.com/ridhi-png/Health-Predictor">
-        <img src="https://img.shields.io/badge/Health--Predictor-%237B1FA2?style=for-the-badge&logo=github&logoColor=white">
-      </a><br>
+        <img src="https://img.shields.io/badge/Health-Predictor-%239C27B0?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>🩺 ML Health Prediction App</sub>
+    </td>
+
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/Financial-News-Sentiment-Analyzer">
+        <img src="https://img.shields.io/badge/Finance-Sentiment-Analyzer-%234CAF50?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>📈 Financial News NLP</sub>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
+      <a href="https://github.com/ridhi-png/Employee-Attrition-Analysis">
+        <img src="https://img.shields.io/badge/Employee-Attrition-Analysis-%23009688?style=for-the-badge&logo=github&logoColor=white">
+      </a><br/>
+      <sub>📊 HR Attrition EDA & ML</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ridhi-png&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhi-png&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to star ★ my repositories!
+</p>
+</a><br>
       <sub>🔮 Predict health conditions using data-driven insights.</sub>
     </td>
     <td>
