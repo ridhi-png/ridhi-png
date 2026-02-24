@@ -113,7 +113,7 @@
 <a href="https://github.com/ridhi-png/greenpulse">
 <img src="https://img.shields.io/badge/View_Project-%2300C7B7?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=00C7B7"/>
 </a>
-<a href="https://greenpulse-vaeayzjywwfsurroozhdja.streamlit.app/">
+<a href="https://greenpulse-eckc9yfkxytdf4ugfahkye.streamlit.app/">
 <img src="https://img.shields.io/badge/Live_Demo-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=black&color=FF4B4B"/>
 </a>
 <br/><br/>
